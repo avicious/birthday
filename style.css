@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #bde0fe;
+  color: #023e8a;
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 80%;
+  border-radius: 20px;
+}
